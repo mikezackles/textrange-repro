@@ -1,0 +1,9 @@
+[submodule "text"]
+	path = text
+	url = https://github.com/tzlaine/text
+[submodule "range-v3"]
+	path = range-v3
+	url = https://github.com/ericniebler/range-v3
+[submodule "my-text"]
+	path = my-text
+	url = https://github.com/mikezackles/text
